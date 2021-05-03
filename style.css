@@ -61,8 +61,11 @@ header {
 
 .feature-2 {
   grid-area: feature-2;
-  background-image: url(img/gambar2.jpg);
+  background-image: url(img/gambar3.jpg);
   background-size: cover;
+  align-items: center;
+  padding-bottom: 30px;
+  box-sizing: border-box;
 }
 
 .features .price {
